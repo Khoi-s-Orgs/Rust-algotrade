@@ -1,0 +1,7 @@
+[package]
+name = "rust-algotrade"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+alpaca_api_client = "0.6.4"
